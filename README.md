@@ -1,4 +1,4 @@
-# 关于AM DOC
+# AM DOC - Alipay Open Document
 - pubdate: 2014-07-07
 
 ---
